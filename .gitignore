@@ -1,0 +1,8 @@
+# Pesos y checkpoints
+*.safetensors
+outputs/
+checkpoint-*/
+
+# Unsloth / cache
+unsloth_compiled_cache/
+__pycache__/
